@@ -1,0 +1,7 @@
+{
+  "name": "cinemaIonPlus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
